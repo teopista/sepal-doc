@@ -66,7 +66,7 @@ Once you are logged in, you will see the following screen. Notice that your user
 There are four main navigation tabs in the dock on the left side of the screen:
 
 -   **Process:** Select imagery and create mosaics.
--   **Files:** Navigate through your personal SEPAL folders. This is where you can download, delete, and visualize data (using the Data Visualization link).
+-   **Files:** Navigate through your personal SEPAL folders. This is where you can download and delete files
 -   **Terminal:** Access the command line for the LINUX server.
 -   **Apps:** Follow links to a variety of pre-loaded tools.
 
